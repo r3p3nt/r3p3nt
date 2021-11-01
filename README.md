@@ -8,3 +8,4 @@
   <p align="center">
     <img src="https://discord.c99.nl/widget/theme-4/308435226156072981.png" />
   </p>
+<img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
